@@ -1,5 +1,6 @@
 # Interview
 INTERVIEW ROUND 1
+
 1.Can you tell me more about yourself?
 2.You worked for a foreign or local company?
 3.How long you work for Sutrix media?
@@ -12,6 +13,7 @@ INTERVIEW ROUND 1
 
 
 INTERVIEW ROUND 2
+
 1.What is your organization in a team (For Scrum master, Product owner..)
 2.Do you know about this technology (..)? Which one you prefer to use?
 3.To create a (..), what you have to do?
@@ -20,6 +22,7 @@ INTERVIEW ROUND 2
 To be added more.....
 
 ANSWER
+
 Q1:
 -Name, age, status
 -Education
